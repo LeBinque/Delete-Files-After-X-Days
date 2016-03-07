@@ -2,9 +2,9 @@
 Deleting files (for example jpg from webcam) after a number of days.
 
 I have a webcam at home, making a snapshot every 20 seconds. These JPGs are saved on an old laptop/server-thing. After a few days i have thousands of JPGs.
-After searching on the internet (and not finding) for some software to delete them, i decided to build my own.
+Searching the internet (and not finding) for some software to delete them, i decided to build my own.
 
-I'm not a great programmer. But this works for me. And maybe this can also help others.
+I'm not a great programmer, but this works for me. And maybe this can also help others.
 
 No installation required. You only need the exe. Just put the EXE somewhere. 
 After first run, the program will create an ini-file.
