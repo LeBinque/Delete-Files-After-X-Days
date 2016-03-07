@@ -1,2 +1,2 @@
 # Delete-Files-Alter-X-Days
-Deleting files (example from webcam) after a number of days.
+Deleting files (for example jpg from webcam) after a number of days.
