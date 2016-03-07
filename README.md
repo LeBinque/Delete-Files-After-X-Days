@@ -12,7 +12,7 @@ After first run, the program will create an ini-file.
 Manual run the program. Buttons are self-explained (i think).
 
 To force auto-run: call it with ANY parameter. So for example:
-DeleteFilesAfterXDays /banana
+DeleteFilesAfterXDays.exe /banana
 
 What i did is make a shortcut for this program, with parameter, and have the windows Task-Scheduler start this shortcut every day.
 
