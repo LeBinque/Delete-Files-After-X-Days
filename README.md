@@ -1,4 +1,4 @@
-# Delete-Files-Alter-X-Days
+# Delete-Files-After-X-Days
 Deleting files (for example jpg from webcam) after a number of days.
 
 I have a webcam at home, making a snapshot every 20 seconds. These JPGs are saved on an old laptop/server-thing. After a few days i have thousands of JPGs.
